@@ -1,5 +1,6 @@
-  💫 Hi 👋, I'm Shah Lucky
-**A passionate FullStack Developer || Frontend Developer ||  from Gujarat,India**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=2000&pause=200&color=00C4FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Shah+Lucky;Full+Stack+Developer+🚀;Frontend+Developer+💻;Building+Projects+%26+Learning+Everyday)](https://git.io/typing-svg)
+
+from Gujarat,India**
 
 Email Me 👉 ✉️ **shahlucky755@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -30,5 +31,7 @@ Email Me 👉 ✉️ **shahlucky755@gmail.com** For Collaboration/Project or Any
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahlucky-dev&" alt="shahlucky-dev" /></p>
 
+
+
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
