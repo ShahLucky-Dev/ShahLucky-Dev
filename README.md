@@ -29,8 +29,6 @@ Email Me 👉 ✉️ **shahlucky755@gmail.com** For Collaboration/Project or Any
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahlucky-dev&show_icons=true&locale=en" alt="shahlucky-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahlucky-dev&" alt="shahlucky-dev" /></p>
-
 
 
 ### ✍️ Random Dev Quote
