@@ -15,6 +15,9 @@ Email Me 👉 ✉️ **shahlucky755@gmail.com** For Collaboration/Project or Any
 <p align="left">
 <a href="https://twitter.com/shahlucky444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahlucky444" height="30" width="40" /></a>
 <a href="https://instagram.com/andra_x_lucky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andra_x_lucky" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/lucky-shah-013117269" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lucky Shah LinkedIn" height="30" width="40" />
+</a>
 </p>
 
 
