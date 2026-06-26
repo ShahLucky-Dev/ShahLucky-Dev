@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=2000&pause=200&color=00C4FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Shah+Lucky;Full+Stack+Developer+🚀;Frontend+Developer+💻;Building+Projects+%26+Learning+Everyday)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=2000&pause=200&color=00C4FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Shah+Lucky;Full+Stack+Developer+🚀;Mern+Stack+Developer+🚀;Frontend+Developer+💻;Building+Projects+%26+Learning+Everyday)](https://git.io/typing-svg)
 
 from Gujarat,India**
 
