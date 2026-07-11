@@ -30,9 +30,7 @@ Email Me 👉 ✉️ **shahlucky755@gmail.com** For Collaboration/Project or Any
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahlucky-dev&show_icons=true&locale=en&layout=compact" alt="shahlucky-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahlucky-dev&show_icons=true&locale=en" alt="shahlucky-dev" /></p>
 
 <img height="170" src="https://streak-stats.demolab.com?user=ShahLucky-Dev&hide_border=true&theme=graywhite" alt="GitHub streak" />
 
