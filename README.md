@@ -34,6 +34,8 @@ Email Me 👉 ✉️ **shahlucky755@gmail.com** For Collaboration/Project or Any
 
 <img height="170" src="https://streak-stats.demolab.com?user=ShahLucky-Dev&hide_border=true&theme=graywhite" alt="GitHub streak" />
 
+![GitHub GIF](githubgif.gif)
+
 
 
 ### ✍️ Random Dev Quote
